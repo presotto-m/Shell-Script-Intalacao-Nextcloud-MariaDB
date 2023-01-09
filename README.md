@@ -23,7 +23,10 @@ A instalação completa instalará o seguinte:
 
 * MariaDB
 
-# Acesso: http://localhost/nextcloud ou http://seu-host-name/nextcloud
+# Acesso
+
+* http://localhost/nextcloud
+* http://seu-host-name/nextcloud
 
 * Basta criar um usuario e senha no momento do login, exemplo: User (Admin) senha (Admin)
 
