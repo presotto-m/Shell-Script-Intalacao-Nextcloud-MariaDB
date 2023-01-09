@@ -23,4 +23,13 @@ A instalação completa instalará o seguinte:
 
 * MariaDB
 
+# Acesso:
 
+* Basta criar um usuario e senha no momento do login, exemplo: User (Admin) senha (Admin)
+
+# Acesso banco de dados de acordo com confi desponibilizada no script
+
+* Database user: nextcloud
+* Database name: nextcloud
+* Database password: nextdbpass
+* Lembre-se de alterá-las
