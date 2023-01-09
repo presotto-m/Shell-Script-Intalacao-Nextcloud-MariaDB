@@ -30,7 +30,7 @@ A instalação completa instalará o seguinte:
 
 * Basta criar um usuario e senha no momento do login, exemplo: User (Admin) senha (Admin)
 
-# Acesso banco de dados de acordo com confi desponibilizada no script
+# Acesso banco de dados de acordo com a config disponibilizada no script
 
 * Database user: nextcloud
 * Database name: nextcloud
