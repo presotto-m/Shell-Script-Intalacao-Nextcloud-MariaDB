@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # Atualizando repo
 sudo apt update -y && apt upgrade -y
 
